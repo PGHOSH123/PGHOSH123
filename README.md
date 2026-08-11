@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+  <a href="https://www.linkedin.com/in/pghosh23/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:priyanka2004vis@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/PGHOSH123">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -23,7 +23,6 @@
 ```yaml
 name: Priyanka Ghosh
 education: "B.Tech in Computer Science & Business Systems"
-role: "Aspiring Software Designer & Developer"
 mission: "Tackling complex challenges with innovative solutions"
 looking_for: "A stimulating environment to apply my technical expertise"
 fun_fact: "I love cats 🐱"
@@ -41,9 +40,7 @@ fun_fact: "I love cats 🐱"
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI-6C63FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
 </p>
 
 <p align="center">
@@ -74,7 +71,7 @@ fun_fact: "I love cats 🐱"
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+  <a href="https://www.linkedin.com/in/pghosh23/">
     <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
