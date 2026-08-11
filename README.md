@@ -49,18 +49,7 @@ fun_fact: "I love cats 🐱"
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🐱 Fun Fact
 
@@ -77,5 +66,5 @@ fun_fact: "I love cats 🐱"
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PGHOSH123&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
