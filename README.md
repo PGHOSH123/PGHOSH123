@@ -52,6 +52,12 @@ fun_fact: "I love cats 🐱"
   </a>
 </p>
 
+<div align="center">
+  
+**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
+
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PGHOSH123&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
